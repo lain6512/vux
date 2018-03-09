@@ -13,6 +13,8 @@ npm run dev
 # build for production with minification
 npm run build
 
+```
+
 ### 包括功能
 * QQ js-sdk授权；
 * bmob后端云注册、登录；
